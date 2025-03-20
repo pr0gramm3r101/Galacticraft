@@ -1,0 +1,51 @@
+{
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "galacticraft:recipes/misc/oxygen_gear": {
+    "criteria": {
+      "has_glass_fluid_pipe": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "galacticraft:recipes/misc/sealable_aluminum_wire": {
+    "criteria": {
+      "has_aluminum_wire": "2025-03-20 15:41:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2025-03-20 15:41:52 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

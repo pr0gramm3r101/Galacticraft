@@ -30,7 +30,6 @@
   ],
   "client": [
     "client.AbstractClientPlayerMixin",
-    "client.AlphaWarningTitleScreenMixin",
     "client.AnimalModelAgeableListModel",
     "client.BlockModelMixin",
     "client.BlockModelMixin$DeserializerMixin",

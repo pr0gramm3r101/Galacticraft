@@ -216,6 +216,5 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,jetbrains+all,eclipse,visualstudiocode
 
 # FabricMC
-run/
 remappedSrc/
 src/main/generated/.cache/

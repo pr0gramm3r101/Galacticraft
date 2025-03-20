@@ -1,0 +1,6 @@
+/locate structure galacticraft:moon_boss
+/locate biome minecraft:desert
+/tp @s -163 105 -412
+/effect give @s minecraft:night_vision
+/effect give @s minecraft:night_vision infinite
+/seed
